@@ -29,3 +29,9 @@ project-folder/
 │── index.html
 │── style.css
 │── script.js
+
+# My Project
+
+## 📸 Screenshot
+
+![Project Screenshot](IMG-20250903-WA0008%281%29.jpg)
